@@ -492,7 +492,7 @@
 :root .membersWrap-3NUR2t::after {
   content: "";
   position: absolute;
-  bottom: -35px;
+  bottom: -15px;
   z-index: 1;
   width: 100%;
   height: 35px;
