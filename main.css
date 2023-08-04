@@ -24,7 +24,7 @@
 :root .threadSidebar-1o3BTy::before {
   content: "Thread";
   position: absolute;
-  top: -60px;
+  top: -40px;
   z-index: 1;
   width: 100%;
   height: 60px;
@@ -40,7 +40,7 @@
 :root .threadSidebar-1o3BTy::after {
   content: "";
   position: fixed;
-  bottom: 85px;
+  bottom: 105px;
   z-index: 1;
   width: 320px;
   height: 35px;
